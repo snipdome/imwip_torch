@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+setup.py
+imwip_torch/__init__.py
+imwip_torch/imwip_torch.py
+imwip_torch.egg-info/PKG-INFO
+imwip_torch.egg-info/SOURCES.txt
+imwip_torch.egg-info/dependency_links.txt
+imwip_torch.egg-info/requires.txt
+imwip_torch.egg-info/top_level.txt
